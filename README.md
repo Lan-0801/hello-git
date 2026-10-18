@@ -7,4 +7,4 @@
 - [x] 安装 Git 并完成基础配置
 - [x] 配置 SSH 免密推送
 - [x] 开启两步验证（2FA）
-- [ ] 学会用分支和 Pull Request
+- [x] 学会用分支和 Pull Request
